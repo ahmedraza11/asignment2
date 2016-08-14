@@ -1,0 +1,59 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+#main{
+    width: 60%;
+    height: 900px;
+   
+    margin: 70px auto 20px auto;
+}
+#logo{
+    position: relative;
+    left: 500px;
+}
+#line{
+    border: solid 2px black;
+}
+nav{
+    margin: 10px auto 10px auto;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    
+}
+nav li{
+    display: inline;
+    margin: 10px 10px 10px 60px;
+}
+nav li a:hover{
+    color: orangered;
+}
+#head_img img{
+    width: 100%;
+    height: 350px;
+}
+#dis{
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: center;
+    font-family: monospace;
+    color: gray;
+}
+#foot{
+    width: 390px;
+    height: 140px;
+    border: solid 2px gray;
+    font-size: 15px;
+    margin: 10px auto 10px auto;
+}
+#foot p{
+    color: gray;
+    font-family: monospace;
+    font-size: 18px;
+    padding: 20px;
+    text-align: center;
+}
